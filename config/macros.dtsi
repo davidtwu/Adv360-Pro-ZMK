@@ -1,4 +1,4 @@
-macro_ctrl_b: macro_ctrl+b{
+macro_ctrl_b: macro_ctrl_b{
 compatible = "zmk,behavior-macro";
 label = "macro_ctrl_b";
 #binding-cells = <0>;
