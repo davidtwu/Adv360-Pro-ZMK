@@ -36,6 +36,7 @@ This assumes you already have [GitHub desktop](https://desktop.github.com/) down
 4. Edit adv 360.keymap
 
     Open adv360.keymap and remove the 8 highlighted &none behaviours in each later
+
 5. Commit your changes
 
     Returning to GitHub desktop you should see the changes you made in the bar on the left. Type an appropriate commit summary and click "Commit to *branch name*"
